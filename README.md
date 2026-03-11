@@ -57,15 +57,6 @@ I build intelligent systems that work while you sleep — from automated workflo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=climbautomation&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=climbautomation&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm open to freelance projects, collaborations, and automation consulting.
