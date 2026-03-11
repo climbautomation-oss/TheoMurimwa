@@ -61,8 +61,8 @@ I build intelligent systems that work while you sleep — from automated workflo
 
 <div align="center">
 
-![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheoMurimwa&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoMurimwa&layout=compact&theme=radical&hide_border=true)
+![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=climbautomation&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=climbautomation&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
