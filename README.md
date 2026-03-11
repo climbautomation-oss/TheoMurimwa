@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hey, I'm Theo Murimwa 👋
+
+</div>
 
 ### Automation Engineer · n8n & Make.com Builder · Voice AI Developer · SEO & GEO Manager · Video Generation Developer
 
@@ -55,15 +59,21 @@ I build intelligent systems that work while you sleep — from automated workflo
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheoMurimwa&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoMurimwa&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ## 🤝 Let's Connect
 
 I'm open to freelance projects, collaborations, and automation consulting.
 
-📧 **Reach me:** *[Add your email here]*
+📧 **Reach me:** *climbautomation@gmail.com / tmurimwas@gmail.com*
+<div align="center">
 
 ---
 
 *"Automate the boring stuff. Build the interesting stuff."*
+</div>ShareContent
